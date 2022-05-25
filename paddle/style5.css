@@ -1,0 +1,346 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navList {
+    margin-left: auto; 
+    text-align: center;
+    margin-right: 50px;
+}
+.navbar-brand {
+    margin-left: 50px;
+}
+.nav-link {
+    font-family: 'Source Sans Pro';
+}
+.nav4 {
+    margin-left: 46px;
+}
+.nav3 {
+    margin-left: 49px;
+}
+.nav2 {
+    margin-left: 52px;
+}
+.nav1 {
+    margin-left: 52px;
+}
+.column1i {
+    height: 650px;
+    background-color:#FFC700;
+    margin-right: 0;
+    padding-right: 0;
+   
+}
+.grow {
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro';
+    font-weight: 900;
+    line-height: 60px;
+    margin-left: 113px;
+    margin-top: 182px;
+    padding: 0px;
+    font-size: 60px;
+    margin-right: 40px;
+    height: 125px;
+    /* border: 1px solid black; */
+    padding-right: -40px;
+    
+}
+.if {
+    /* border: 1px solid black; */
+    font-family: 'Sintony';
+    margin-left: 113px;
+    width: 455px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+.btn1 {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-size: 15px;
+    /* line-height: 24px; */
+    margin-left: 113px;
+    color: #fff;
+    /* width: 216px; */
+    background-color: black;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 70px;
+    padding-right: 70px;
+    height: 52px;
+    /* line-height: 24px; */
+    margin-top: 0px;
+    position: absolute;
+    /* display: inline-block; */
+    /* max-width: 400px; */
+    /* top: 417px; */
+}
+.column2iyyyyy {
+    margin: 0px;
+    /* width: 721px; */
+    /* height: 650px; */
+    /* position: absolute; */
+    padding: 0px;
+    object-position: center;
+    /* margin-left: -15px; */
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.img1{
+    width: 42.19rem;
+    height: 650px;
+    max-height: 650px;
+    overflow: hidden;
+    margin-left: -13px;
+ }
+ .img1 img{
+    width: 100%;
+    height: 100%;
+}
+.row2 {
+    height: 994px;
+    /* border: 3px solid green; */
+    margin-top: 130px;
+    margin-left: 144px;
+}
+.imgweb {
+    margin-left: 137px;
+    margin-top: 210px;
+    border: 1px solid black;
+    margin-right: 10px;
+    color: #fff;
+    background-color: black;
+}
+.imgweb2 {
+    margin-top: 80px;
+}
+.imgweb3 {
+    margin-top: 80px;
+    margin-right: 157px;
+    margin-left: 10px;
+}
+.web{
+    font-family: 'Source Sans Pro';
+    font-size: 34px;
+    font-weight: 900;
+    margin-left: 94px;
+    line-height: 51px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.web2{
+    font-family: 'Source Sans Pro';
+    font-size: 34px;
+    font-weight: 900;
+    margin-left: 50px;
+    line-height: 51px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.my-first {
+    font-family: 'Sintony';
+    font-size: 15px;
+    line-height: 24px;
+    max-width: 350px;
+    margin-left: 94px;
+    margin-bottom: 80px;
+}
+.my-first2 {
+    font-family: 'Sintony';
+    font-size: 15px;
+    line-height: 24px;
+    max-width: 350px;
+    margin-left: 50px;
+    margin-bottom: 80px;
+}
+/* .circle1 {
+      
+} */
+.tv1 {
+    position: absolute;
+    margin-left: -93px;
+    margin-top: 30px;
+
+}
+.circleTv1 {
+    margin-top: 40px;
+    margin-left: -60px;
+    position: absolute;
+}
+.circleTv2 {
+    margin-top: 40px;
+    margin-left: 420px;
+    position: absolute;
+}
+.we-are {
+    text-align: right;
+    font-family: 'Source Sans Pro';
+    margin-top: 130px;
+    margin-right: 157px;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+}
+.for-challenge {
+    text-align: right;
+    font-family: 'Source Sans Pro';
+    margin-right: 157px;
+    font-size: 48px;
+    line-height: 56px;
+}
+.challenges {
+    color: #FFC700;
+}
+.row3 {
+    padding-top: 131px;
+    padding-left: 137px;
+    padding-bottom: 131px;
+    /* 
+    padding-right: 164px;
+    
+     */
+
+    height: 458px;
+    background-color: black;
+    color: #fff;
+    margin-top: 350px;
+}
+.company {
+    margin-right: 14px;
+}
+.about {
+    margin-left: -300px;
+    width: 356px;
+    height: 72px;
+    font-family: 'Sintony';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+}
+.address {
+    margin-left: -200px;
+    width: 356px;
+    height: 72px;
+    font-family: 'Sintony';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+}
+.logoCol {
+    width: 356px;
+    height: 72px;
+    font-family: 'Sintony';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+}
+.Services {
+    width: 356px;
+    height: 72px;
+    font-family: 'Sintony';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    margin-right: 90px;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 700px){
+    body {
+        overflow-x: hidden;
+    }
+    .if {
+        margin-left: 113px;
+        width: 255px;
+        margin-top: 120px;
+        margin-left: 20px;
+    }
+    .grow {
+        margin-top: 100px;
+        margin-left: 20px;
+    }
+    .btn1 {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .img1{
+        width: 100vh;
+        height: 650px;
+        max-height: 100%;
+       
+        margin-left: -13px;
+     }
+    .we-are {
+         margin-right: 20px;
+    }
+    .for-challenge {
+         display: inline-block;
+         /* text-align: center; */
+         margin-right: 10px;
+         margin-left: 20px;
+    }
+    .imgweb {
+        margin-left: 20px;
+    }
+    .imgweb2 {
+        margin-left: 20px;
+        margin-top: 120px;
+    }
+    .imgweb3 {
+        margin-right: 20px;
+        margin-top: 120px;
+    }
+    .web,.my-first {
+        margin-left: 50px;
+    }
+    .circleTv1, .circleTv2 {
+        margin-left: 145px;
+        position: absolute;
+        margin-top: -80px;
+    }
+    .row3 {
+       top: 3500px;
+       position: absolute;
+       width: 100%;
+       height: 600px;
+    }
+    .logoCol {
+        margin-left: -100px;
+        position: relative;
+        
+    }
+    .fund {
+        max-width: 200px;
+    }
+    .Services {
+        margin-left: 150px;
+        
+        position: absolute;
+    }
+    .about {
+        top: 400px;
+        position: absolute;
+        margin-left: -95px;   
+    }
+    .address {
+        margin-left: 150px;
+        top: 400px;
+        position: absolute;
+    }
+    
+    
+}
