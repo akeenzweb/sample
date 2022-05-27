@@ -1,0 +1,55 @@
+
+ .d-block {
+    height: 100vh;
+    width: 100vh;
+} 
+.btn_try {
+    width: 200px;
+    border: none;
+    color: #fff;
+    font-family: sans-serif;
+    background-color: #113bb1;
+    width: 200px;
+    text-decoration: none;
+    height: 40px;
+    border-radius: 20px;
+}
+a {
+    color: #fff;
+}
+.card1 {
+    display: block;
+    font-family: 'Sintony';
+    color: rgb(35, 4, 63);
+    font-size: 80px;
+    font-weight: 900;
+}
+.img3 {
+    background-position: center center;
+    width: 50%;
+    height: 50%;
+}
+
+
+@media screen and (max-width: 700px) {
+    img[src*="image/pic5/slide1.jpg"] {
+        content:url("image/pic5/slide6.jpg");
+       
+      }
+
+      img[src*="image/pic5/slide4.jpg"] {
+        content:url("image/pic5/download.jpeg");
+        
+      }
+
+      img[src*="image/pic5/slide5.jpg"] {
+        content:url("image/pic5/slide2.png");
+       
+      }
+
+      .d-block {
+        height: 100vh;
+        width: 100vh;
+    } 
+      
+}
